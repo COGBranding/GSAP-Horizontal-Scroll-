@@ -1,0 +1,29 @@
+.cog-container {
+	overscroll-behavior: none;
+	width: 600%;
+	height: 100%;
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.green{
+	width: 500px;
+	height: 200px;
+	background-color:green;
+}
+
+.yellow{
+	width: 500px;
+	height: 200px;
+	background-color:yellow;
+}
+
+.purple{
+	width: 500px;
+	height: 200px;
+	background-color:purple;
+}
+
+body {
+	overflow-x: hidden;
+}
